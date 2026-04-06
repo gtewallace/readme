@@ -3,7 +3,7 @@
 ## Contributions
 
 ### Node.js
-- Participated in the Node.js Community Surveys from 2016-2018. These surveys help gather insights on the community's needs and preferences. You can find more about it on the official Node.js website.
+- Played leading role in the Node.js Community Surveys from 2016-2018. These surveys help gather insights on the community's needs and preferences. You can find more about it on the official Node.js website.
 
 ### Hyperledger
 - Contributed to the **[Hyperledger Architecture Whitepaper](https://lists.lfdecentralizedtrust.org/g/tac/attachment/1256/0/paper.pdf)**, which outlines the proposed architecture for blockchain technologies. 
